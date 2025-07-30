@@ -1,3 +1,5 @@
 This folder composed of Graph Neural Networks (GNNs) implementation.
+
 The file Hamiltonian Cycles.ipynb is used to generate a cycle with special properties called 'Hamiltonian Cycle' from a given Barnette Graph with a decent accuracy. This was result of work for my minor project under the guidance of Dr. Saptarshi Bej (sbej7042@iisertvm.ac.in). In this work, we build a GNN model heavily inspired with Transformer with certain modifications in it.
+
 Image Recognition.ipynb file is yet another potential application to Transformer based model where we try to exploit its nature of spatial information preservation property necessary for image-based classification. This work is heavily inspired from above code.
